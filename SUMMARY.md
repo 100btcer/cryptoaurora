@@ -8,8 +8,8 @@
 
 ## 项目
 
-* [个人项目](xiang-mu/ge-ren-xiang-mu/README.md)
-  * [链游贪吃蛇](xiang-mu/ge-ren-xiang-mu/lian-you-tan-chi-she.md)
+* [自研项目](xiang-mu/zi-yan-xiang-mu/README.md)
+  * [链游贪吃蛇](xiang-mu/zi-yan-xiang-mu/lian-you-tan-chi-she.md)
 
 ## Group 1
 
