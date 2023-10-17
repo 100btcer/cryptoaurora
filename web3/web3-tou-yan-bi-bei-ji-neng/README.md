@@ -1,3 +1,21 @@
+---
+coverY: 0
+layout:
+  cover:
+    visible: false
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Web3投研必备技能
 
 ## 1、**区块链基础知识**
@@ -65,6 +83,8 @@
 
 * 熟悉加密货币市场，了解不同代币的用途和前景
 * 学习进行市场研究和风险评估，以进行有根据的投资
+* 了解常见的投资策略：长期持有、交易、套利等
+* 了解风险管理和投资多样化的组合等
 
 ## 14、团队合作
 
