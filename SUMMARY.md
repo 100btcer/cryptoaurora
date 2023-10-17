@@ -17,3 +17,8 @@
   * [区块链基础知识](web3/web3-ru-men-xi-tong-hua-jiang-jie/qu-kuai-lian-ji-chu-zhi-shi.md)
 * [智能合约](web3/zhi-neng-he-yue/README.md)
   * [一个质押提款项目合约分析](web3/zhi-neng-he-yue/yi-ge-zhi-ya-ti-kuan-xiang-mu-he-yue-fen-xi.md)
+
+## 数字游民
+
+* [数字游民如何赚钱](shu-zi-you-min/shu-zi-you-min-ru-he-zhuan-qian.md)
+* [Page](shu-zi-you-min/page.md)

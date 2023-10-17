@@ -12,8 +12,8 @@
 
 觉得文档有价值的话，可以支持一下我吗，微信扫一扫，请我喝杯咖啡
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>微信赞赏二维码</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt="" width="375"><figcaption><p>微信赞赏二维码</p></figcaption></figure>
 
 或者加我微信
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>微信二维码</p></figcaption></figure>
