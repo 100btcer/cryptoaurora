@@ -13,7 +13,7 @@
 
 ## Web3
 
-* [Web3入门系统化讲解](web3/web3-ru-men-xi-tong-hua-jiang-jie/README.md)
-  * [Page 1](web3/web3-ru-men-xi-tong-hua-jiang-jie/page-1.md)
+* [Web3入门系统化讲解](web3/web3-tou-yan-bi-bei-ji-neng/README.md)
+  * [Page 1](web3/web3-tou-yan-bi-bei-ji-neng/page-1.md)
 * [智能合约](web3/zhi-neng-he-yue/README.md)
   * [一个质押提款项目合约分析](web3/zhi-neng-he-yue/yi-ge-zhi-ya-ti-kuan-xiang-mu-he-yue-fen-xi.md)
