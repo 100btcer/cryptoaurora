@@ -21,4 +21,3 @@
 ## 数字游民
 
 * [数字游民如何赚钱](shu-zi-you-min/shu-zi-you-min-ru-he-zhuan-qian.md)
-* [Page](shu-zi-you-min/page.md)
