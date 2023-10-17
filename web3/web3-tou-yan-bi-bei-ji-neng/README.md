@@ -18,7 +18,7 @@ layout:
 
 # Web3入门系统化讲解
 
-## 1、**区块链基础知识**
+## 1、[**区块链基础知识**](../web3-ru-men-xi-tong-hua-jiang-jie/qu-kuai-lian-ji-chu-zhi-shi.md)
 
 * 了解区块链的基本概念，例如区块、链、交易、智能合约、共识机制
 * 了解不同的公链系统，例如比特币、以太坊、波卡、COSMOS、BSC、Polygon、Layer2系列、move语言系列（aptos、sui）等，以及他们的用途和优缺点
