@@ -10,6 +10,7 @@
 
 * [自研项目](xiang-mu/zi-yan-xiang-mu/README.md)
   * [链游贪吃蛇](xiang-mu/zi-yan-xiang-mu/lian-you-tan-chi-she.md)
+  * [贪吃蛇基础概况](xiang-mu/zi-yan-xiang-mu/tan-chi-she-ji-chu-gai-kuang.md)
 
 ## Web3
 
