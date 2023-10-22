@@ -51,3 +51,9 @@
 #### 排行榜
 
 提供全网排行榜
+
+#### **web版链接**
+
+[https://snake.tokenwhy.com](https://snake.tokenwhy.com)​
+
+大家可以先体验下，完整功能需打包成移动版\
