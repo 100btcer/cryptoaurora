@@ -31,7 +31,7 @@
 
 这个漏洞的第一个版本涉及可以在函数的第一次调用完成之前重复调用的函数。这可能会导致函数的不同调用以破坏性方式进行交互。
 
-```solidity
+```javascript
 // INSECURE
 mapping (address => uint) private userBalances;
 
