@@ -2,6 +2,15 @@
 
 加密曙光，布道加密行业，深度绑定加密行业，服务加密行业，可直接访问本电子书：[https://www.cryptoaurora.top](https://www.cryptoaurora.top/)
 
+### 个人社交媒体：
+
+* Twitter：[https://twitter.com/0xAuroraX](https://twitter.com/0xAuroraX)
+* Telegram：[https://t.me/CryptoAuroraX](https://t.me/CryptoAuroraX)
+* Discord：kevin2023#0000
+* Wechat：kevin76702
+
+### 专注于：
+
 * 区块链行业普及
 * 加密行业普及
 * 骗局揭露
