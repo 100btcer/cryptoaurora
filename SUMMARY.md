@@ -25,6 +25,8 @@
   * [权利过大的所有者](web3/lou-dong-fen-xi/quan-li-guo-da-de-suo-you-zhe.md)
   * [算数精度问题](web3/lou-dong-fen-xi/suan-shu-jing-du-wen-ti.md)
   * [依赖tx.origin](web3/lou-dong-fen-xi/yi-lai-tx.origin.md)
+  * [溢出（Overflow / Underflow）](web3/lou-dong-fen-xi/yi-chu-overflow-underflow.md)
+  * [不安全的类型推导](web3/lou-dong-fen-xi/bu-an-quan-de-lei-xing-tui-dao.md)
 * [工具](web3/gong-ju/README.md)
   * [一款聚合型内容转发工具](web3/gong-ju/yi-kuan-ju-he-xing-nei-rong-zhuan-fa-gong-ju.md)
   * [币圈常用工具集合](web3/gong-ju/bi-quan-chang-yong-gong-ju-ji-he.md)
