@@ -1,5 +1,7 @@
 # 加密曙光
 
+加密曙光，布道加密行业，深度绑定加密行业，服务加密行业，可直接访问本电子书：[https://www.cryptoaurora.top](https://www.cryptoaurora.top/)
+
 * 区块链行业普及
 * 加密行业普及
 * 骗局揭露
