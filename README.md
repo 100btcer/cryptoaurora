@@ -7,7 +7,6 @@
 * Twitter：[https://twitter.com/0xAuroraX](https://twitter.com/0xAuroraX)
 * Telegram：[https://t.me/CryptoAuroraX](https://t.me/CryptoAuroraX)
 * Discord：kevin2023#0000
-* Wechat：kevin76702
 
 ### 专注于：
 
