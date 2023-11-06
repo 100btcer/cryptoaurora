@@ -41,3 +41,7 @@
 ## 数字游民
 
 * [数字游民如何赚钱](shu-zi-you-min/shu-zi-you-min-ru-he-zhuan-qian.md)
+
+## 交易
+
+* [策略有效性](jiao-yi/ce-lve-you-xiao-xing.md)
