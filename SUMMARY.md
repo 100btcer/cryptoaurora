@@ -44,4 +44,4 @@
 
 ## 交易
 
-* [策略有效性](jiao-yi/ce-lve-you-xiao-xing.md)
+* [指标有效性](jiao-yi/zhi-biao-you-xiao-xing.md)
