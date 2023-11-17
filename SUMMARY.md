@@ -45,3 +45,4 @@
 ## 交易
 
 * [指标有效性](jiao-yi/zhi-biao-you-xiao-xing.md)
+* [EMA判断牛熊](jiao-yi/ema-pan-duan-niu-xiong.md)
