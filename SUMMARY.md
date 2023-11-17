@@ -46,3 +46,7 @@
 
 * [指标有效性](jiao-yi/zhi-biao-you-xiao-xing.md)
 * [EMA判断牛熊](jiao-yi/ema-pan-duan-niu-xiong.md)
+
+## 资金
+
+* [交易所储备](zi-jin/jiao-yi-suo-chu-bei.md)
