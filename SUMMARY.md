@@ -50,3 +50,7 @@
 ## 资金
 
 * [交易所储备](zi-jin/jiao-yi-suo-chu-bei.md)
+
+## 每日行情分析
+
+* [2023-11-18（跌）](mei-ri-hang-qing-fen-xi/20231118-die.md)
