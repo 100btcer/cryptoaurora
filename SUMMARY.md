@@ -62,3 +62,4 @@
 ## 翻身经验总结
 
 * [翻身过程经验心路历程总结](fan-shen-jing-yan-zong-jie/fan-shen-guo-cheng-jing-yan-xin-lu-li-cheng-zong-jie.md)
+* [如何赚钱](fan-shen-jing-yan-zong-jie/ru-he-zhuan-qian.md)
