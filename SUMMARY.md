@@ -36,8 +36,11 @@
   * [DeFi工具集合](web3/gong-ju/defi-gong-ju-ji-he.md)
   * [技术工具集合](web3/gong-ju/ji-shu-gong-ju-ji-he.md)
   * [智能合约安全检测工具](web3/gong-ju/zhi-neng-he-yue-an-quan-jian-ce-gong-ju.md)
-  * [学习网站](web3/gong-ju/xue-xi-wang-zhan.md)
   * [铭文生态](web3/gong-ju/ming-wen-sheng-tai.md)
+
+***
+
+* [学习网站](xue-xi-wang-zhan.md)
 
 ## 数字游民
 
