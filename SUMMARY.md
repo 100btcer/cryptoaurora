@@ -70,6 +70,7 @@
 
 ## 投研
 
+* [以太坊流向](tou-yan/yi-tai-fang-liu-xiang.md)
 * [重要事件](tou-yan/zhong-yao-shi-jian/README.md)
   * [2024年七大利好](tou-yan/zhong-yao-shi-jian/2024-nian-qi-da-li-hao.md)
 * [大盘和趋势研究](tou-yan/da-pan-he-qu-shi-yan-jiu.md)
