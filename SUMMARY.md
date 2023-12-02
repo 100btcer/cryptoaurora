@@ -67,3 +67,12 @@
 
 * [翻身过程经验心路历程总结](fan-shen-jing-yan-zong-jie/fan-shen-guo-cheng-jing-yan-xin-lu-li-cheng-zong-jie.md)
 * [如何赚钱](fan-shen-jing-yan-zong-jie/ru-he-zhuan-qian.md)
+
+## 投研
+
+* [重要事件](tou-yan/zhong-yao-shi-jian/README.md)
+  * [2024年七大利好](tou-yan/zhong-yao-shi-jian/2024-nian-qi-da-li-hao.md)
+* [大盘和趋势研究](tou-yan/da-pan-he-qu-shi-yan-jiu.md)
+* [L2](tou-yan/l2.md)
+* [老公链](tou-yan/lao-gong-lian.md)
+* [模块化](tou-yan/mo-kuai-hua.md)
