@@ -12,4 +12,5 @@ eliz交易记录，包括公开的twitter消息和dc消息
 
 #### CFX
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
