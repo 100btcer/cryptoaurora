@@ -48,6 +48,8 @@
 
 ## 交易
 
+* [炒币核心](jiao-yi/chao-bi-he-xin/README.md)
+  * [心态管控](jiao-yi/chao-bi-he-xin/xin-tai-guan-kong.md)
 * [指标有效性](jiao-yi/zhi-biao-you-xiao-xing.md)
 * [EMA判断牛熊](jiao-yi/ema-pan-duan-niu-xiong.md)
 
@@ -61,6 +63,7 @@
 
 ## 撸毛
 
+* [Arbitrum生态](lu-mao/arbitrum-sheng-tai.md)
 * [BTC生态](lu-mao/btc-sheng-tai.md)
 
 ## 翻身经验总结
