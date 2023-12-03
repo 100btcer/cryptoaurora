@@ -17,7 +17,7 @@ eliz交易记录，包括公开的twitter消息和dc消息
 
 #### APT
 
-![](<../.gitbook/assets/image (11).png>)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 #### STG
 
