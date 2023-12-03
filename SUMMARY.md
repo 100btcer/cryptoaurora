@@ -49,7 +49,7 @@
 ## 交易
 
 * [炒币核心](jiao-yi/chao-bi-he-xin/README.md)
-  * [心态管控](jiao-yi/chao-bi-he-xin/xin-tai-guan-kong.md)
+  * [弱势心态](jiao-yi/chao-bi-he-xin/ruo-shi-xin-tai.md)
 * [指标有效性](jiao-yi/zhi-biao-you-xiao-xing.md)
 * [EMA判断牛熊](jiao-yi/ema-pan-duan-niu-xiong.md)
 
