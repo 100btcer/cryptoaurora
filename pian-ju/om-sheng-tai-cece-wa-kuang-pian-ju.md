@@ -30,7 +30,7 @@ description: 揭露深圳盘子项目，该项目伪装的特别正常，看似�
 
 俱乐部之前的名字是“one more玩家俱乐部”，现在改成“玩家俱乐部”了，我当时很纳闷，认为可能不主推“one more”项目了，当然我的怀疑目前已经应验了，因为“one more”修改"cece"挖矿兑换策略之后，把后期新进资金锁死到了合约中，只能被迫参与，长期参与。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>俱乐部前台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>俱乐部前台</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
