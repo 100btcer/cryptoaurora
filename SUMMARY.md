@@ -5,7 +5,7 @@
 ## 投资与交易
 
 * [投资第一课](tou-zi-yu-jiao-yi/tou-zi-di-yi-ke/README.md)
-  * [为何而来](tou-zi-yu-jiao-yi/tou-zi-di-yi-ke/wei-he-er-lai.md)
+  * [为什么](tou-zi-yu-jiao-yi/tou-zi-di-yi-ke/wei-shi-mo.md)
 
 ## 骗局
 
