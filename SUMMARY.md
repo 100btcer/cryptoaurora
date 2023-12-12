@@ -69,6 +69,7 @@
 
 ## 撸毛
 
+* [挖矿](lu-mao/wa-kuang.md)
 * [Arbitrum生态](lu-mao/arbitrum-sheng-tai.md)
 * [BTC生态](lu-mao/btc-sheng-tai.md)
 
