@@ -14,7 +14,9 @@
 
 7.输入挖矿指令开始挖 ./Powerc20Worker -privateKey 你的钱包私钥 -contractAddress 0xca9b78435Be8267922E7Ac5cDE70401e7502c9cc -workerCount 64 挖矿指令“你的私钥”换成钱包私钥 记得用临时钱包 出块后不会自行显示 从区块浏览器自己查 有合约交互就代表出了一次 为加快速度 可以多开几个powershell窗口 每个窗口指令相同 多开可加快速度
 
-{% embed url="https://powerc20.com" %}
+[https://powerc20.com](https://powerc20.com)
+
+{% embed url="https://youtu.be/D_uLM5i0Z4c" %}
 
 一个地址限制上限十张 目前成本差不多五刀一张
 
