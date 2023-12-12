@@ -16,7 +16,9 @@
 
 [https://powerc20.com](https://powerc20.com)
 
-{% embed url="https://youtu.be/D_uLM5i0Z4c" %}
+
+
+
 
 一个地址限制上限十张 目前成本差不多五刀一张
 
