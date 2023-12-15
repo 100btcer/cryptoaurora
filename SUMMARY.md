@@ -69,6 +69,8 @@
 
 ## 撸毛
 
+* [铭文](lu-mao/ming-wen/README.md)
+  * [MAPO铭文](lu-mao/ming-wen/mapo-ming-wen.md)
 * [挖矿](lu-mao/wa-kuang.md)
 * [Arbitrum生态](lu-mao/arbitrum-sheng-tai.md)
 * [BTC生态](lu-mao/btc-sheng-tai.md)
