@@ -70,6 +70,7 @@
 ## 撸毛
 
 * [铭文](lu-mao/ming-wen/README.md)
+  * [icp铭文](lu-mao/ming-wen/icp-ming-wen.md)
   * [okts](lu-mao/ming-wen/okts.md)
   * [MAPO铭文](lu-mao/ming-wen/mapo-ming-wen.md)
 * [挖矿](lu-mao/wa-kuang.md)
