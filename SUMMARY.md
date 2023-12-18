@@ -70,6 +70,15 @@
 ## 撸毛
 
 * [铭文](lu-mao/ming-wen/README.md)
+  * [prc20](lu-mao/ming-wen/prc20.md)
+  * [cosmos链铭文](lu-mao/ming-wen/cosmos-lian-ming-wen.md)
+  * [sui铭文](lu-mao/ming-wen/sui-ming-wen.md)
+  * [sol铭文](lu-mao/ming-wen/sol-ming-wen.md)
+  * [avax铭文](lu-mao/ming-wen/avax-ming-wen.md)
+  * [bnb符文](lu-mao/ming-wen/bnb-fu-wen.md)
+  * [shib链铭文](lu-mao/ming-wen/shib-lian-ming-wen.md)
+  * [sei公链铭文](lu-mao/ming-wen/sei-gong-lian-ming-wen.md)
+  * [cias铭文](lu-mao/ming-wen/cias-ming-wen.md)
   * [icp铭文](lu-mao/ming-wen/icp-ming-wen.md)
   * [okts](lu-mao/ming-wen/okts.md)
   * [MAPO铭文](lu-mao/ming-wen/mapo-ming-wen.md)
