@@ -70,6 +70,7 @@
 ## 撸毛
 
 * [铭文](lu-mao/ming-wen/README.md)
+  * [arb链铭文](lu-mao/ming-wen/arb-lian-ming-wen.md)
   * [prc20](lu-mao/ming-wen/prc20.md)
   * [cosmos链铭文](lu-mao/ming-wen/cosmos-lian-ming-wen.md)
   * [sui铭文](lu-mao/ming-wen/sui-ming-wen.md)
