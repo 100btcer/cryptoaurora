@@ -69,7 +69,10 @@
 
 ## 撸毛
 
+* [Depil](lu-mao/depil/README.md)
+  * [Wynd Network](lu-mao/depil/wynd-network.md)
 * [铭文](lu-mao/ming-wen/README.md)
+  * [inj铭文](lu-mao/ming-wen/inj-ming-wen.md)
   * [arb链铭文](lu-mao/ming-wen/arb-lian-ming-wen.md)
   * [prc20](lu-mao/ming-wen/prc20.md)
   * [cosmos链铭文](lu-mao/ming-wen/cosmos-lian-ming-wen.md)
