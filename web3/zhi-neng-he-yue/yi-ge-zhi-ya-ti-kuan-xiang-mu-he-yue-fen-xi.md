@@ -419,6 +419,6 @@ contract TicketToken is ERC20,Ownable {
 
 ```
 
-整个项目的源码如下，欢迎交流学习：[https://github.com/100btcer/deposit-withdraw-game-demo](https://github.com/100btcer/deposit-withdraw-game-demo)
+整个项目的源码如下，欢迎交流学习：https://github.com/\*\*\*\*\*\*\*\*/deposit-withdraw-game-demo
 
 包括前端、后端、合约

@@ -36,6 +36,7 @@
   * [循环内转帐](web3/lou-dong-fen-xi/xun-huan-nei-zhuan-zhang.md)
   * [时间戳依赖](web3/lou-dong-fen-xi/shi-jian-chuo-yi-lai.md)
 * [工具](web3/gong-ju/README.md)
+  * [铭文](web3/gong-ju/ming-wen.md)
   * [一款聚合型内容转发工具](web3/gong-ju/yi-kuan-ju-he-xing-nei-rong-zhuan-fa-gong-ju.md)
   * [币圈常用工具集合](web3/gong-ju/bi-quan-chang-yong-gong-ju-ji-he.md)
   * [DeFi工具集合](web3/gong-ju/defi-gong-ju-ji-he.md)
