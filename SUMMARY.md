@@ -55,8 +55,6 @@
 
 ## 交易
 
-* [交易总结](jiao-yi/jiao-yi-zong-jie/README.md)
-  * [2024-01](jiao-yi/jiao-yi-zong-jie/2024-01.md)
 * [Eliz交易记录](jiao-yi/eliz-jiao-yi-ji-lu.md)
 * [炒币核心](jiao-yi/chao-bi-he-xin/README.md)
   * [弱势心态](jiao-yi/chao-bi-he-xin/ruo-shi-xin-tai.md)
