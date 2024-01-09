@@ -108,5 +108,6 @@
   * [2024年七大利好](tou-yan/zhong-yao-shi-jian/2024-nian-qi-da-li-hao.md)
 * [大盘和趋势研究](tou-yan/da-pan-he-qu-shi-yan-jiu.md)
 * [L2](tou-yan/l2.md)
+* [LSD（流动性质押）](tou-yan/lsd-liu-dong-xing-zhi-ya.md)
 * [老公链](tou-yan/lao-gong-lian.md)
 * [模块化](tou-yan/mo-kuai-hua.md)
