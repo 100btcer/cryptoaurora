@@ -103,6 +103,8 @@
 
 ## 投研
 
+* [Cosmos生态](tou-yan/cosmos-sheng-tai/README.md)
+  * [Celestia](tou-yan/cosmos-sheng-tai/celestia.md)
 * [以太坊流向](tou-yan/yi-tai-fang-liu-xiang.md)
 * [重要事件](tou-yan/zhong-yao-shi-jian/README.md)
   * [2024年七大利好](tou-yan/zhong-yao-shi-jian/2024-nian-qi-da-li-hao.md)
