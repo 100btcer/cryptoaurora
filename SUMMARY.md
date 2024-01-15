@@ -36,6 +36,12 @@
 
 ## 技术
 
+* [区块链技术](ji-shu/qu-kuai-lian-ji-shu/README.md)
+  * [深入浅出比特币](ji-shu/qu-kuai-lian-ji-shu/shen-ru-qian-chu-bi-te-bi.md)
+* [技术储备](ji-shu/ji-shu-chu-bei/README.md)
+  * [web3技术储备](ji-shu/ji-shu-chu-bei/web3-ji-shu-chu-bei.md)
+  * [web2和web3的区别](ji-shu/ji-shu-chu-bei/web2-he-web3-de-qu-bie.md)
+  * [Web2编程技术准备](ji-shu/ji-shu-chu-bei/web2-bian-cheng-ji-shu-zhun-bei.md)
 * [Web3入门系统化讲解](ji-shu/web3-ru-men-xi-tong-hua-jiang-jie/README.md)
   * [区块链基础知识](ji-shu/web3-ru-men-xi-tong-hua-jiang-jie/qu-kuai-lian-ji-chu-zhi-shi.md)
 * [智能合约（Solidity）](ji-shu/zhi-neng-he-yue-solidity/README.md)
