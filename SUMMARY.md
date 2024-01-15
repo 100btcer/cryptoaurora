@@ -4,7 +4,7 @@
 
 ## 投资与交易
 
-* [投资与交易额区别](tou-zi-yu-jiao-yi/tou-zi-yu-jiao-yi-de-qu-bie.md)
+* [投资与交易的区别](tou-zi-yu-jiao-yi/tou-zi-yu-jiao-yi-de-qu-bie.md)
 * [投资第一课](tou-zi-yu-jiao-yi/tou-zi-di-yi-ke/README.md)
   * [为什么](tou-zi-yu-jiao-yi/tou-zi-di-yi-ke/wei-shi-mo.md)
 
