@@ -108,7 +108,7 @@
 
 * [研报合集](tou-yan/zhong-yao-shi-jian/README.md)
   * [2024年七大利好](tou-yan/zhong-yao-shi-jian/2024-nian-qi-da-li-hao.md)
-  * [2024和新加密机构年报总结与解读](tou-yan/zhong-yao-shi-jian/2024-he-xin-jia-mi-ji-gou-nian-bao-zong-jie-yu-jie-du.md)
+  * [2024年新加密机构年报总结与解读](tou-yan/yan-bao-he-ji/2024-nian-xin-jia-mi-ji-gou-nian-bao-zong-jie-yu-jie-du.md)
 * [Cosmos生态](tou-yan/cosmos-sheng-tai/README.md)
   * [Celestia](tou-yan/cosmos-sheng-tai/celestia.md)
 * [以太坊流向](tou-yan/yi-tai-fang-liu-xiang.md)
