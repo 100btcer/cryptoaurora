@@ -116,3 +116,8 @@
 * [LSD（流动性质押）](tou-yan/lsd-liu-dong-xing-zhi-ya.md)
 * [老公链](tou-yan/lao-gong-lian.md)
 * [模块化](tou-yan/mo-kuai-hua.md)
+* [比特币生态](tou-yan/bi-te-bi-sheng-tai/README.md)
+  * [铭文](tou-yan/bi-te-bi-sheng-tai/ming-wen/README.md)
+    * [Ordinals](tou-yan/bi-te-bi-sheng-tai/ming-wen/ordinals.md)
+    * [brc20](tou-yan/bi-te-bi-sheng-tai/ming-wen/brc20.md)
+  * [比特币Layer2](tou-yan/bi-te-bi-sheng-tai/bi-te-bi-layer2.md)
