@@ -62,6 +62,8 @@
   * [技术工具集合](ji-shu/gong-ju/ji-shu-gong-ju-ji-he.md)
   * [智能合约安全检测工具](ji-shu/gong-ju/zhi-neng-he-yue-an-quan-jian-ce-gong-ju.md)
 * [学习网站](ji-shu/xue-xi-wang-zhan.md)
+* [Solana](ji-shu/solana/README.md)
+  * [Raydium DEX](ji-shu/solana/raydium-dex.md)
 
 ## 杂谈
 
